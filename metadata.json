@@ -1,0 +1,5 @@
+{
+  "name": "PodGen AI",
+  "description": "Create custom multi-speaker podcasts on any topic using Gemini AI. Customize speakers, languages, and duration.",
+  "requestFramePermissions": []
+}
